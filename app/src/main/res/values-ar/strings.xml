@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">تطبيقي</string>
+    <string name="signup">اشتراك</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="sign_up">اشت-راك</string>
+    <string name="adress">العنوان</string>
+    <string name="age">العمر</string>
+</resources>
